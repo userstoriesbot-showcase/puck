@@ -12,7 +12,7 @@ export const initialData: Record<string, UserData> = {
           backdrop: "grid",
           padding: "160px",
           eyebrow: "Open-source",
-          title: "This page was built with Puck",
+          title: "This page was built using Puck",
           description:
             "<p>Puck is the visual editor for React. Bring your own components and make changes instantly, without a deploy.</p>",
           buttons: [
